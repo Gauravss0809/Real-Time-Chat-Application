@@ -1,6 +1,6 @@
-# XeroxChat - Production-Grade Real-Time Chat Application
+# RockChat - Production-Grade Real-Time Chat Application
 
-A production-ready real-time chat application built with **Node.js, Express.js, Socket.IO, and TypeScript**. Designed for **long-term maintainability, scalability, and enterprise-grade quality**.
+A production-ready real-time chat application built with **Node.js, Express.js, Socket.IO**. Designed for **long-term maintainability, scalability, and enterprise-grade quality**.
 
 ## Key Features
 
