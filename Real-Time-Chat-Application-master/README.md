@@ -6,7 +6,6 @@ A production-ready real-time chat application built with **Node.js, Express.js, 
 
 ### Core Functionality
 - Real-time messaging using Socket.IO with fully typed events
-- Multiple chat rooms with active user tracking
 - User management with duplicate username prevention
 - Responsive UI with modern styling
 - Server-side message formatting with timezone support (Asia/Dhaka)
